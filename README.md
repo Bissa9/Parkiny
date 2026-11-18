@@ -1,11 +1,16 @@
 # Parkiny
 
+<img width="429" height="886" alt="Screenshot 2026-11-18 at 5 29 27 AM" src="https://github.com/user-attachments/assets/be0222ed-3d03-4eaa-98e0-ab1cbaed12a4" />
+<img width="439" height="956" alt="Screenshot 2026-11-18 at 5 38 34 AM" src="https://github.com/user-attachments/assets/46f2a07c-7851-4eb1-9141-35e4a2f6aa42" />
+<img width="439" height="956" alt="Screenshot 2026-11-18 at 5 38 47 AM" src="https://github.com/user-attachments/assets/bba3d8e8-5aaa-40b5-8a3a-b635b0881fa0" />
+
+
+
 Objective-C iOS app that remembers where you parked. It follows your location, names the city, saves the spot, and draws a driving route back to the car.
 
 ## What you can do
 
-- See the city and the coordinates of the blue dot, so you can tell which place the map is using
-- Save that spot. It is still there after the app closes
+![Uploading Screenshot 2026-11-18 at 5.38.18 AM.png…]()- Save that spot. It is still there after the app closes
 - Read the distance and compass direction back to the car
 - Draw a driving route, then tap **Back** to follow yourself again
 - Tap the location button at the top right to center the map on you
