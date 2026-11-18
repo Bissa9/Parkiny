@@ -1,6 +1,6 @@
 # Parkiny
 
-<img width="429" height="886" alt="Screenshot 2026-11-18 at 5 29 27 AM" src="https://github.com/user-attachments/assets/be0222ed-3d03-4eaa-98e0-ab1cbaed12a4" />
+<img width="439" height="956" alt="Screenshot 2026-11-18 at 5 38 18 AM" src="https://github.com/user-attachments/assets/b21fc283-799a-42ea-a25c-cc11c4ddba79" />
 <img width="439" height="956" alt="Screenshot 2026-11-18 at 5 38 34 AM" src="https://github.com/user-attachments/assets/46f2a07c-7851-4eb1-9141-35e4a2f6aa42" />
 <img width="439" height="956" alt="Screenshot 2026-11-18 at 5 38 47 AM" src="https://github.com/user-attachments/assets/bba3d8e8-5aaa-40b5-8a3a-b635b0881fa0" />
 
