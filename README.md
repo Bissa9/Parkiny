@@ -7,7 +7,7 @@ Objective-C iOS app that remembers where you parked. It follows your location, n
 
 ## What you can do
 
-![Uploading Screenshot 2026-11-18 at 5.38.18 AM.png…]()- Save that spot. It is still there after the app closes
+- Save that spot. It is still there after the app closes
 - Read the distance and compass direction back to the car
 - Draw a driving route, then tap **Back** to follow yourself again
 - Tap the location button at the top right to center the map on you
