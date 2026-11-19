@@ -1,9 +1,6 @@
 # Parkiny
-
-<img width="439" height="956" alt="Screenshot 2026-11-18 at 5 38 18 AM" src="https://github.com/user-attachments/assets/b21fc283-799a-42ea-a25c-cc11c4ddba79" />
 <img width="439" height="956" alt="Screenshot 2026-11-18 at 5 38 34 AM" src="https://github.com/user-attachments/assets/46f2a07c-7851-4eb1-9141-35e4a2f6aa42" />
 <img width="439" height="956" alt="Screenshot 2026-11-18 at 5 38 47 AM" src="https://github.com/user-attachments/assets/bba3d8e8-5aaa-40b5-8a3a-b635b0881fa0" />
-
 
 
 Objective-C iOS app that remembers where you parked. It follows your location, names the city, saves the spot, and draws a driving route back to the car.
